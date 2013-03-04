@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: josh-davenport
+Contributors: Josh Davenport
 Tags: theme, plugin, admin, administration, tool, development
 Requires at least: 3.4
 Tested up to: 3.5
